@@ -1,4 +1,4 @@
-## Variables features
+## Languages features
 
 
 ### Type checking
@@ -11,3 +11,9 @@
 
 <img class="fragment" src="src/features/type_declaration_compability.png" alt="Type checking" width=70%>
 <img class="fragment" src="src/features/type_declaration_compability2.png" alt="Type checking" width=70%>
+
+
+### Indentation rules
+
+<img class="fragment" src="src/features/indent.png" alt="Indent rule" width=100%>
+<img class="fragment" src="src/features/indent2.png" alt="Indent rule" width=100%>
