@@ -11,11 +11,6 @@
 <img src="src/data/compound.png" alt="Compound data types" width=100% style="margin-top: -4%;">
 
 
-### Algebraic Data Types
-
-<img src="src/data/adt.png" alt="Algebraic data types" width=100% style="margin-top: -4%;">
-
-
 ### Enumarations
 
 ```py
@@ -52,4 +47,4 @@ fn fleet_moves(operation: FleetOperation) {
 
 ### Operators
 
-<img src="src/data/operators.png" alt="Operators" width=100% style="margin-top: -4%;">
+<img src="src/data/operators.png" alt="Operators" width=120% style="margin-top: -4%; margin-left: -10%;">

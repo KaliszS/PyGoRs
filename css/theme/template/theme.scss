@@ -93,8 +93,8 @@
 .reveal img,
 .reveal video,
 .reveal iframe {
-	max-width: 95%;
-	max-height: 95%;
+	max-width: 150%;
+	max-height: 150%;
 }
 .reveal strong,
 .reveal b {
@@ -328,4 +328,17 @@
     .backgrounds {
         background-color: var(--r-background-color);
     }
+}
+
+
+/****************************************
+ * CUSTOM FIXES
+ ****************************************/
+
+.svglang {
+	display: flex;
+}
+ 
+.svglang object {
+	margin-right: -.5em;
 }

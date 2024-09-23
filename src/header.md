@@ -1,3 +1,1 @@
-#
-
-![Rust & Go for Python developers](src/header.png)
+<img src="src/header.png" alt="Rust & Go for Python developers" width=100%>
