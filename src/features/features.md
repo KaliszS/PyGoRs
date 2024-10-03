@@ -21,8 +21,8 @@
 
 ### Comments
 
-<div style="margin-left: -30%;" class="svglang">
-  <object data="src/features/comments_py.svg" alt="Rust comments" width=43%></object>
-  <object data="src/features/comments_rs.svg" alt="Rust comments" width=43%></object>
-  <object data="src/features/comments_go.svg" alt="Rust comments" width=43%></object>
+<div class="svglang">
+  <object data="src/features/comments_py.svg"></object>
+  <object data="src/features/comments_rs.svg"></object>
+  <object data="src/features/comments_go.svg"></object>
 </div>

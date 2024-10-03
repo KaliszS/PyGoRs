@@ -13,38 +13,34 @@
 
 ### Enumarations
 
-```py
-# python -> enum is just a set of symbolic names 
-# bound to unique values
-from enum import Enum
+<div class="svglang">
+  <object data="src/data/enum_py.svg" alt="Python enums" width=53%></object>
+  <object data="src/data/enum_rs.svg" alt="Rust enums" width=53%></object>
+  <span style="margin-left: 3%;" >Go <br>❌</span>
+</div>
 
-class FleetOperation(Enum):
-    PROTECT: 1
-    EXPLORE: 2
-```
-
-```rs
-// rust -> enum allows to store more complex structures
-// and lets each variant to have different signatures
-enum FleetOperation {
-    Protect {tradenode_id: u8},
-    Explore,
-}
-
-fn fleet_moves(operation: FleetOperation) {
-    match operation {
-        FleetOperation::Protect { tradenode_id } => //print sth
-        // ...
-    }
-}
-```
+Rust's enum lets each variant to have different signatures.
 
 
 ### Variables
 
-<img src="src/data/variables.png" alt="Variables" width=85% style="margin-top: -4%;">
+<div class="svglang">
+  <object data="src/data/var_py.svg"></object>
+  <object data="src/data/var_rs.svg"></object>
+  <object data="src/data/var_go.svg"></object>
+</div>
+
+
+### Variables
+
+<object class="main_svg" data="src/data/variables_extra.svg"></object>
+
+
+### Variables
+
+<object class="main_svg_higher" data="src/data/variables_errors.svg"></object>
 
 
 ### Operators
 
-<img src="src/data/operators.png" alt="Operators" width=120% style="margin-top: -4%; margin-left: -10%;">
+<object class="main_svg_higher" data="src/data/operators.svg"></object>

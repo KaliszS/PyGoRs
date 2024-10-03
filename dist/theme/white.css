@@ -361,9 +361,37 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * CUSTOM FIXES
  ****************************************/
 .svglang {
+  margin-left: -6em;
   display: flex;
+  font-size: 1em;
 }
 
 .svglang object {
   margin-right: -0.5em;
+  width: 12em;
+}
+
+@media (max-width: 480px) {
+  .svglang {
+    margin-left: 0em;
+  }
+  .svglang object {
+    width: 8em;
+  }
+}
+.main_svg {
+  margin-left: -4em;
+  width: 30em;
+}
+
+.main_svg_higher {
+  margin-left: -2.5em;
+  width: 25em;
+}
+
+@media (max-width: 480px) {
+  .main_svg, .main_svg_higher {
+    margin-left: 0em;
+    width: 22em;
+  }
 }
