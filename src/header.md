@@ -1,1 +1,1 @@
-<img src="src/header.png" alt="Rust & Go for Python developers" width=100%>
+<object class="main_svg_higher" data="src/header.svg"></object>

@@ -26,3 +26,8 @@
   <object data="src/features/comments_rs.svg"></object>
   <object data="src/features/comments_go.svg"></object>
 </div>
+
+
+### Semicolons
+
+<object class="main_svg" data="src/features/semicolons.svg"></object>
