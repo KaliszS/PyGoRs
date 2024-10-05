@@ -3,12 +3,17 @@
 
 ### Scalar data types
 
-<img src="src/data/scalar.png" alt="Scalar data types" width=80% style="margin-top: -4%;">
+<object class="main_svg_higher_2" data="src/data/scalar.svg"></object>
 
 
 ### Compound data types
 
-<img src="src/data/compound.png" alt="Compound data types" width=100% style="margin-top: -4%;">
+<object class="main_svg_higher" data="src/data/list.svg"></object>
+
+
+### Compound data types
+
+<object class="main_svg" data="src/data/map.svg"></object
 
 
 ### Enumarations

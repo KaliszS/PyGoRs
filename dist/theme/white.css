@@ -389,8 +389,13 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   width: 25em;
 }
 
+.main_svg_higher_2 {
+  margin-left: 0em;
+  width: 17em;
+}
+
 @media (max-width: 480px) {
-  .main_svg, .main_svg_higher {
+  .main_svg, .main_svg_higher, .main_svg_higher2 {
     margin-left: 0em;
     width: 22em;
   }

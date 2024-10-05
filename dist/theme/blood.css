@@ -395,8 +395,13 @@ section.has-light-background, section.has-light-background h1, section.has-light
   width: 25em;
 }
 
+.main_svg_higher_2 {
+  margin-left: 0em;
+  width: 17em;
+}
+
 @media (max-width: 480px) {
-  .main_svg, .main_svg_higher {
+  .main_svg, .main_svg_higher, .main_svg_higher2 {
     margin-left: 0em;
     width: 22em;
   }
