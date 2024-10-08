@@ -3,9 +3,13 @@
 
 ### Project packaging
 
-<img src="src/modules/modules1.png" alt="Packaging" width=100% style="margin-top: -2%;">
+<object class="main_svg" data="src/modules/packages.svg"></object>
 
 
 ### Importing code
 
-<img src="src/modules/modules2.png" alt="Importing code" width=130% style="margin-top: -2%; margin-left: -10%; max-width: 130%;">
+<div class="svglang">
+  <object data="src/modules/import_py.svg"></object>
+  <object data="src/modules/import_rs.svg"></object>
+  <object data="src/modules/import_go.svg"></object>
+</div>
