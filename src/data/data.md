@@ -20,9 +20,27 @@
 </div>
 
 
+### Dynamic size arrays
+
+<div class="svglang">
+  <object data="src/data/dynamic_py.svg"></object>
+  <object data="src/data/dynamic_rs.svg"></object>
+  <object data="src/data/dynamic_go.svg"></object>
+</div>
+
+
 ### Compound data types
 
-<object class="main_svg" data="src/data/map.svg"></object
+<object class="main_svg" data="src/data/map.svg"></object>
+
+
+### Types conversions
+
+<div class="svglang">
+  <object data="src/data/conv_py.svg"></object>
+  <object data="src/data/conv_rs.svg"></object>
+  <object data="src/data/conv_go.svg"></object>
+</div>
 
 
 ### Enumarations
