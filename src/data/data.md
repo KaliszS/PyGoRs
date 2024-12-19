@@ -46,9 +46,9 @@
 ### Enumarations
 
 <div class="svglang">
-  <object data="src/data/enum_py.svg" width=53%></object>
-  <object data="src/data/enum_rs.svg" width=53%></object>
-  <span style="margin-left: 3%;" >Go <br>❌</span>
+  <object data="src/data/enum_py.svg"></object>
+  <object data="src/data/enum_rs.svg"></object>
+  <object data="src/data/enum_go.svg"></object>
 </div>
 
 Rust's enum lets each variant to have different signatures.
