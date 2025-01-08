@@ -26,3 +26,12 @@
   <object data="src/control/jump_rs.svg"></object>
   <object data="src/control/jump_go.svg"></object>
 </div>
+
+
+### Switch statement
+
+<div class="svglang">
+  <object data="src/control/match_py.svg"></object>
+  <object data="src/control/match_rs.svg"></object>
+  <object data="src/control/match_go.svg"></object>
+</div>

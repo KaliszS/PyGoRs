@@ -45,3 +45,12 @@ calculate! {
   eval 1 + 2 // eval used like a Rust keyword
 }
 ```
+
+
+### Variadic functions
+
+<div class="svglang">
+  <object data="src/functions/variadic_py.svg"></object>
+  <object data="src/functions/variadic_rs.svg"></object>
+  <object data="src/functions/variadic_go.svg"></object>
+</div>
