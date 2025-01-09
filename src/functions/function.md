@@ -1,6 +1,11 @@
 ## Functions
 
 
+### Functions
+
+<object class="main_svg_higher" data="src/functions/function.svg"></object>
+
+
 ### Function definition and call
 
 <div class="svglang">

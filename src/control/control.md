@@ -1,6 +1,11 @@
 ## Control flow
 
 
+### Control flow
+
+<object class="main_svg_higher_2" data="src/control/control.svg"></object>
+
+
 ### Conditional
 
 <div class="svglang">

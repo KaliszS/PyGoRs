@@ -1,6 +1,10 @@
 ## OOP
 
 
+### OOP
+
+<object class="main_svg_higher" data="src/oop/oop.svg"></object>
+
 ### Methods
 
 <div class="svglang">

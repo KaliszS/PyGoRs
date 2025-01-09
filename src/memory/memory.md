@@ -1,6 +1,11 @@
 ## Memory managment
 
 
+### Memory managment
+
+<object class="main_svg_higher" data="src/memory/memory.svg"></object>
+
+
 ### Rust - copy vs move
 
 ```rs[2]
