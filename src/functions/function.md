@@ -10,6 +10,15 @@
 </div>
 
 
+### Default parameters & multiple return values
+
+<div class="svglang">
+  <object data="src/functions/multiple_py.svg"></object>
+  <object data="src/functions/multiple_rs.svg"></object>
+  <object data="src/functions/multiple_go.svg"></object>
+</div>
+
+
 ### Rust - macros
 
 ```rs
@@ -53,4 +62,13 @@ calculate! {
   <object data="src/functions/variadic_py.svg"></object>
   <object data="src/functions/variadic_rs.svg"></object>
   <object data="src/functions/variadic_go.svg"></object>
+</div>
+
+
+### Closures & anonymous functions
+
+<div class="svglang">
+  <object data="src/functions/closure_py.svg"></object>
+  <object data="src/functions/closure_rs.svg"></object>
+  <object data="src/functions/closure_go.svg"></object>
 </div>
