@@ -148,3 +148,32 @@ fn convert_to_AUC(yr: u16, era: String) -> u16 {
 }
 ```
 <img src="src/memory/rust_mem7.png" alt="Rust memory - stack vs heap" width=95% style="margin-top: -5%;">
+
+
+### Rust - references & borrowing
+
+```rs[4, 8]
+fn main() {
+    let year: u16 = 2024;
+    let era: String = String::from("AD");
+    let auc: u16 = convert_to_AUC(year, &era);
+    println!("Today is {} AUC ({} {})", auc, year, era);
+}
+
+fn convert_to_AUC(yr: u16, era: &String) -> u16 {
+    // AUC - ab urbe condita
+    // years since the foundation of Rome
+    if era == "AD" { return 753 + yr };
+    753 - yr + 1
+}
+```
+<img src="src/memory/rust_mem8.svg" alt="Rust memory - stack vs heap" width=95% style="margin-top: -5%;">
+
+
+### Rust - references & borrowing
+
+- borrowing doesn't take ownership from variable
+- scope of the reference ends with its last usage
+- multiple read-only references to the same value are allowed
+- only one MUTABLE (`&mut`) reference to the same value AT THE SAME TIME is allowed
+- dangling reference points to invalid data
